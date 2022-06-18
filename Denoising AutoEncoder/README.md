@@ -1,4 +1,4 @@
-# CIFAR100 with pytorch
+# Denoising AutoEncoder
 
 ## 개요
 Denosing AutoEncoder 모델을 이용하여 Noise MNIST 이미지의 Noise를 제거하는 Task입니다.
